@@ -1,4 +1,3 @@
-# rename-archive
  # Rename Archive
 
 Este projeto contém um script Python que renomeia arquivos `.txt` em um diretório especificado pelo usuário. Cada arquivo é renomeado para `boletos-pagarX.txt`, onde `X` é um número incremental.
